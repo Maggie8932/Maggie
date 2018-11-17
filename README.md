@@ -1,0 +1,2 @@
+# Maggie
+MCMC slice sampling
